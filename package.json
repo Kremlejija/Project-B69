@@ -1,0 +1,26 @@
+{
+  "name": "project-b69",
+  "version": "1.0.0",
+  "description": "Two dumbs it`s power!!!",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kremlejija/Project-B69.git"
+  },
+  "author": "Kremlejija_&_WinGo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kremlejija/Project-B69/issues"
+  },
+  "homepage": "https://github.com/Kremlejija/Project-B69#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "mongoose": "^6.3.5",
+    "nodemon": "^2.0.16"
+  }
+}
